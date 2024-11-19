@@ -148,7 +148,6 @@
   background-color: transparent;
   text-transform: uppercase;
   border: 1px #ffffff solid;
-  padding: 14px 32px;
   color: #ffffff;
   font-size: 22px;
   line-height: 22px;
@@ -278,10 +277,6 @@
   font-weight: 700;
   font-size: 40px;
   line-height: 47px;
-}
-
-.text_1 {
-  letter-spacing: 0.01em;
 }
 
 .text_1 {

@@ -2,5 +2,5 @@
   font-family: "Raleway";
   src: url(./raleway.woff2) format(woff2),
     url(./raleway.woff) format(woff),
-    url(./raleway.ttf) format(truetype);
+    url(./raleway.ttf) format(truetype),
 }
