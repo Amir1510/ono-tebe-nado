@@ -50,19 +50,19 @@
   height: 105px;
 }
 
-.header__address {
-  font-size: 18px;
-  font-style: normal;
-  justify-self: end;
+.address {
+  text-underline-position: under;
   line-height: 135%;
-  margin: 9px 26px 0px 0px;
+  font-size: 18px;
+  color: #000000;
+  letter-spacing: 0.01em;
   width: 240px;
+  font-style: normal;
 }
 
-.header__address-link {
-  color: #000000;
-  text-underline-position: under;
-  letter-spacing: 0.01em;
+.header__address {
+  justify-self: end;
+  margin: 9px 26px 0px 0px;
 }
 
 .cover {
@@ -295,19 +295,6 @@
   display: flex;
   justify-content: space-between;
   padding: 183px 47px 88px 52px;
-}
-
-.footer__address-link {
-  color: #000000;
-  text-underline-position: under;
-  letter-spacing: 0.01em;
-}
-
-.footer__address {
-  font-size: 18px;
-  font-style: normal;
-  line-height: 135%;
-  width: 240px;
 }
 
 .footer__menu-link {
